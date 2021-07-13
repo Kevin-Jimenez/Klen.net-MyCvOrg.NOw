@@ -1,0 +1,58 @@
+*{
+
+}
+.row-12{
+    margin-top: 20px;
+}
+header{
+    background:  #ABB2B9;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+img{
+    height: 170px;
+    width: 170px;
+    border: 2px double black;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+}
+
+.banner{
+background: #d2edf7;
+padding-top: 60px;
+padding-bottom: 50px;
+}
+.estudios {
+    background: #d2edf7;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.lugares {
+    background: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+aside{
+    background: #d2edf7;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+footer{
+    background: #ABB2B9 ;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-align: center;   
+    margin-bottom: 20px;
+}
+.perfil{
+margin-top: 10px;
+}
+.row-1{
+    margin-top: 20px;
+}
+a{
+    color: black;
+}
